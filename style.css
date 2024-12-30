@@ -1,0 +1,144 @@
+h1{
+        font-family: "Oswald", serif;
+        font-optical-sizing: auto;
+        font-weight: 500;
+        font-style: normal;
+        text-transform: uppercase;
+        text-align: center;
+      }
+.parafirst{
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+.poppins-regular-italic {
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+.parasecond{
+    font-family: "Poppins";
+    text-transform: uppercase;
+}
+.span1{
+    font-weight: bold;
+    text-transform:uppercase;
+    font-size: xx-large;
+}
+.span2 {
+    font-size: smaller;
+    font-weight: 500;
+    text-transform:capitalize;
+}
+.line1 {
+    width: 3px;
+    background-color: black;
+    height: 150px;
+    position: absolute;
+    left: 450px;
+    top: 170px;
+}
+.thirdpara {
+    text-align:justify;
+    position: absolute;
+    left: 470px;
+    top: 160px;
+}
+.line2{
+    width: 3px;
+    background-color:black;
+    height: 150px;
+    position: absolute;
+    left: 630px;
+    top: 170px;
+}
+.fourthpara {
+    text-align:justify;
+    position: absolute;
+    left: 900px;
+    top: 160px;
+}
+h3{
+    text-indent: 50px;
+}
+.fifthpara{
+    text-align: justify;
+
+}
+.firstheading{
+    text-transform: uppercase;
+    font-family:Arial, Helvetica, sans-serif;
+}
+ul > li {
+    list-style: '☕';
+}
+*{
+    background-color: rgb(236, 234, 234);
+}
+.line3{
+    width: 3px;
+    background-color: black;
+    height: 330px;
+    position: absolute;
+    left: 450px;
+    top: 390px;
+}
+.seventhpara {
+    text-align: justify;
+    position: absolute;
+    top: 375px;
+    left: 34.5%;
+}
+.secondheading{
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 590px;
+    left: 34.5%;
+}
+.ninthpara {
+    text-align: justify;
+    position: absolute;
+    top: 630px;
+    left: 34.5%;
+}
+img{
+    position: absolute;
+    top: 400px;
+    left: 67%;
+    height: 150px;
+}
+.line4{
+    width: 3px;
+    background-color: black;
+    height: 330px;
+    position: absolute;
+    left: 66%;
+    top: 400px;
+}
+.tenpara{
+    text-align: justify;
+    position: absolute;
+    left: 79%;
+    top: 380px;
+    line-height: 20px;
+}
+.elevenpara{
+    position: absolute;
+    left: 67%;
+    top: 560px;
+    line-height: 20px;
+}
+.twelvepara{
+    position: absolute;
+    left: 67%;
+    top: 610px;
+    line-height: 20px;
+}
+h6{
+    text-transform: uppercase;
+    position: absolute;
+    top: 530px;
+    left: 68%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
